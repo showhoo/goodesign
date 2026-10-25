@@ -11,18 +11,18 @@ Aquí no hay código fuente. Esta página sirve para señalar el producto, expli
 | | |
 |---|---|
 | Producto | [www.goodesign.io](https://www.goodesign.io) |
-| Biblioteca de estilos (34 estilos) | [/styles](https://www.goodesign.io/styles) |
+| Biblioteca de estilos (31 estilos) | [/styles](https://www.goodesign.io/styles) |
 | Galería de ejemplos realizados | [/gallery](https://www.goodesign.io/gallery) |
 | Qué hace cada tarea | [/features](https://www.goodesign.io/features) |
 | Planes y precios | [/pricing](https://www.goodesign.io/pricing) |
 | Cómo redactar el brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Centro de conocimiento (100 artículos) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Centro de conocimiento (132 artículos) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Centro de ayuda | [/help](https://www.goodesign.io/help) |
 | Contacto | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## Qué hace
 
-**Cambiar el estilo de una habitación.** Una habitación vacía o pasada de moda, mostrada en otra dirección. La biblioteca reúne 34 estilos con nombre — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist y veinte más — o un brief escrito por usted.
+**Cambiar el estilo de una habitación.** Una habitación vacía o pasada de moda, mostrada en otra dirección. La biblioteca reúne 31 estilos con nombre — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist y dieciséis más — o un brief escrito por usted.
 
 **Cambiar una cosa y conservar el resto.** Las páginas de tareas son lo que nos diferencia. En lugar de una sola caja abierta y sin límites del tipo "imagina esta habitación", cada trabajo tiene su propia página y sus propios controles:
 
@@ -63,7 +63,7 @@ La facturación se tramita a través de Creem como merchant of record, con PayPa
 
 ## Idiomas
 
-El sitio sirve siete idiomas. Todos contienen las mismas 183 páginas — la biblioteca de estilos, las páginas de tareas, el centro de conocimiento y las páginas legales — con alternativas `hreflang` y un `x-default`. Cada idioma se abre mediante un prefijo de ruta, de modo que el lector llega a su propia versión del contenido.
+El sitio sirve siete idiomas. Todos contienen las mismas 240 páginas — la biblioteca de estilos, las páginas de tareas, el centro de conocimiento, las páginas legales y las páginas de comparación y ranking — con alternativas `hreflang` y un `x-default`. Cada idioma se abre mediante un prefijo de ruta, de modo que el lector llega a su propia versión del contenido.
 
 | Locale | Punto de entrada |
 |---|---|

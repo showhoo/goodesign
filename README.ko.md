@@ -11,18 +11,18 @@
 | | |
 |---|---|
 | 제품 | [www.goodesign.io](https://www.goodesign.io) |
-| 스타일 라이브러리 (34가지 룩) | [/styles](https://www.goodesign.io/styles) |
+| 스타일 라이브러리 (31가지 룩) | [/styles](https://www.goodesign.io/styles) |
 | 실제 작업 예시 갤러리 | [/gallery](https://www.goodesign.io/gallery) |
 | 각 작업이 하는 일 | [/features](https://www.goodesign.io/features) |
 | 요금제와 가격 | [/pricing](https://www.goodesign.io/pricing) |
 | 브리프 작성법 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| 지식 허브 (기사 100개) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| 지식 허브 (기사 132개) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | 도움말 센터 | [/help](https://www.goodesign.io/help) |
 | 연락처 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## 무엇을 합니다
 
-**방의 스타일을 바꿉니다.** 비어 있거나 오래된 방을 다른 방향으로 보여줍니다. 라이브러리에는 이름이 붙은 34가지 룩 — Japandi, Scandinavian(스칸디나비아), Wabi Sabi(와비사비), Mid Century(미드센추리), Boho(보헤미안), Industrial(인더스트리얼), Art Deco(아르데코), Quiet Luxury, Mediterranean(지중해), Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist(맥시멀리스트) 및 그 외 20가지 — 가 있고, 직접 작성한 브리프도 사용할 수 있습니다.
+**방의 스타일을 바꿉니다.** 비어 있거나 오래된 방을 다른 방향으로 보여줍니다. 라이브러리에는 이름이 붙은 31가지 룩 — Japandi, Scandinavian(스칸디나비아), Wabi Sabi(와비사비), Mid Century(미드센추리), Boho(보헤미안), Industrial(인더스트리얼), Art Deco(아르데코), Quiet Luxury, Mediterranean(지중해), Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist(맥시멀리스트) 및 그 외 16가지 — 가 있고, 직접 작성한 브리프도 사용할 수 있습니다.
 
 **하나만 바꾸고 나머지는 그대로 둡니다.** 차이를 만드는 것은 작업 페이지입니다. 끝이 열린 "이 방을 상상해 보세요" 입력창 하나 대신, 각 작업에는 자기 페이지와 자기 제어 항목이 있습니다:
 
@@ -63,7 +63,7 @@
 
 ## 언어
 
-이 사이트는 7개 로케일을 서비스합니다. 각 로케일마다 동일한 183개 페이지 — 스타일 라이브러리, 작업 페이지, 지식 허브, 법적 고지 페이지 — 가 그대로 들어 있고, `hreflang` 교차 링크와 `x-default`를 갖추고 있습니다. 언어는 경로 접두사로 전환하므로, 읽는 사람은 자기 언어 버전으로 바로 들어갑니다.
+이 사이트는 7개 로케일을 서비스합니다. 각 로케일마다 동일한 240개 페이지 — 스타일 라이브러리, 작업 페이지, 지식 허브, 법적 고지 페이지, 비교·순위 페이지 — 가 그대로 들어 있고, `hreflang` 교차 링크와 `x-default`를 갖추고 있습니다. 언어는 경로 접두사로 전환하므로, 읽는 사람은 자기 언어 버전으로 바로 들어갑니다.
 
 | 로케일 | 진입 주소 |
 |---|---|

@@ -11,18 +11,18 @@ No source code lives here. This page exists to point at the product, explain wha
 | | |
 |---|---|
 | Product | [www.goodesign.io](https://www.goodesign.io) |
-| Style library (34 looks) | [/styles](https://www.goodesign.io/styles) |
+| Style library (31 looks) | [/styles](https://www.goodesign.io/styles) |
 | Gallery of worked examples | [/gallery](https://www.goodesign.io/gallery) |
 | What each task does | [/features](https://www.goodesign.io/features) |
 | Plans and prices | [/pricing](https://www.goodesign.io/pricing) |
 | How to write the brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Knowledge hub (100 articles) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Knowledge hub (132 articles) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Help centre | [/help](https://www.goodesign.io/help) |
 | Contact | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## What it does
 
-**Restyle a room.** An empty or dated room, shown in a different direction. The library holds 34 named looks — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist and twenty more — or your own written brief.
+**Restyle a room.** An empty or dated room, shown in a different direction. The library holds 31 named looks — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist and sixteen more — or your own written brief.
 
 **Change one thing, keep the rest.** The task pages are the point of difference. Instead of one open-ended "imagine this room" box, each job has its own page and its own controls:
 
@@ -63,7 +63,7 @@ Billing runs through Creem as merchant of record, with PayPal available as a dir
 
 ## Languages
 
-The site serves seven locales. Every one of them carries the same 183 pages — the style library, the task pages, the knowledge hub, and the legal pages — with `hreflang` alternates and an `x-default`. The localized pages are reached through a path prefix, so a reader lands on their own language version of a page rather than on a translated stub.
+The site serves seven locales. Every one of them carries the same 240 pages — the style library, the task pages, the knowledge hub, the legal pages, and the comparison and ranking pages — with `hreflang` alternates and an `x-default`. The localized pages are reached through a path prefix, so a reader lands on their own language version of a page rather than on a translated stub.
 
 | Locale | Entry point |
 |---|---|

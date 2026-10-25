@@ -11,18 +11,18 @@ Hier liegt kein Quellcode. Diese Seite verweist auf das Produkt, erklärt, was e
 | | |
 |---|---|
 | Produkt | [www.goodesign.io](https://www.goodesign.io) |
-| Stilbibliothek (34 Styles) | [/styles](https://www.goodesign.io/styles) |
+| Stilbibliothek (31 Styles) | [/styles](https://www.goodesign.io/styles) |
 | Galerie umgesetzter Beispiele | [/gallery](https://www.goodesign.io/gallery) |
 | Was die einzelnen Aufgaben leisten | [/features](https://www.goodesign.io/features) |
 | Tarife und Preise | [/pricing](https://www.goodesign.io/pricing) |
 | So schreiben Sie die Vorgabe | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Wissens-Hub (100 Artikel) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Wissens-Hub (132 Artikel) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Hilfecenter | [/help](https://www.goodesign.io/help) |
 | Kontakt | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## Was es kann
 
-**Einen Raum neu stylen.** Ein leerer oder in die Jahre gekommener Raum, gezeigt in einer anderen Richtung. Die Bibliothek enthält 34 benannte Styles — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist und zwanzig weitere — oder Ihre eigene schriftliche Vorgabe.
+**Einen Raum neu stylen.** Ein leerer oder in die Jahre gekommener Raum, gezeigt in einer anderen Richtung. Die Bibliothek enthält 31 benannte Styles — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist und sechzehn weitere — oder Ihre eigene schriftliche Vorgabe.
 
 **Etwas ändern, den Rest behalten.** Die Aufgabenseiten sind der Punkt, an dem wir uns unterscheiden. Statt eines offenen Eingabefelds nach dem Motto „Stellen Sie sich diesen Raum vor" hat jede Aufgabe ihre eigene Seite und eigene Einstellmöglichkeiten:
 
@@ -63,7 +63,7 @@ Die Abrechnung läuft über Creem als Merchant of Record, PayPal steht als direk
 
 ## Sprachen
 
-Die Website bedient sieben Sprachversionen. Jede enthält dieselben 183 Seiten — die Stilbibliothek, die Aufgabenseiten, den Wissens-Hub und die Rechtstexte — mit `hreflang`-Alternativen und einem `x-default`. Die Sprachversionen werden über ein Pfadpräfix aufgerufen, Leser landen also bei der eigenen Sprachfassung einer Seite.
+Die Website bedient sieben Sprachversionen. Jede enthält dieselben 240 Seiten — die Stilbibliothek, die Aufgabenseiten, den Wissens-Hub, die Rechtstexte sowie die Vergleichs- und Ranglistenseiten — mit `hreflang`-Alternativen und einem `x-default`. Die Sprachversionen werden über ein Pfadpräfix aufgerufen, Leser landen also bei der eigenen Sprachfassung einer Seite.
 
 | Sprachversion | Einstiegspunkt |
 |---|---|

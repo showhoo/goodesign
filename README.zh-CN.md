@@ -11,18 +11,18 @@
 | | |
 |---|---|
 | 产品 | [www.goodesign.io](https://www.goodesign.io) |
-| 风格库（34 种风格） | [/styles](https://www.goodesign.io/styles) |
+| 风格库（31 种风格） | [/styles](https://www.goodesign.io/styles) |
 | 成品案例画廊 | [/gallery](https://www.goodesign.io/gallery) |
 | 各任务分别做什么 | [/features](https://www.goodesign.io/features) |
 | 套餐与价格 | [/pricing](https://www.goodesign.io/pricing) |
 | 如何写清需求 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| 知识库（100 篇文章） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| 知识库（132 篇文章） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | 帮助中心 | [/help](https://www.goodesign.io/help) |
 | 联系方式 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## 它能做什么
 
-**给房间换风格。** 把一间空房或已经过时的房间，呈现为另一种方向。风格库收录 34 种命名风格：Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist，另有二十种；您也可以直接用自己的文字描述需求。
+**给房间换风格。** 把一间空房或已经过时的房间，呈现为另一种方向。风格库收录 31 种命名风格：Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist，另有十六种；您也可以直接用自己的文字描述需求。
 
 **只改一处，其余保持不变。** 任务页面才是它真正的差异所在。它没有提供一个开放式的"想象这间房间"输入框，而是每项任务都有自己的页面、自己的控件：
 
@@ -63,7 +63,7 @@
 
 ## 语言
 
-站点提供七种语言版本。每一种都包含完全相同的 183 个页面：风格库、任务页面、知识库和法律页面，并配有 `hreflang` 备用链接与 `x-default`。各语言版本通过路径前缀访问，读者进入的是同一篇内容自己的语言版本。
+站点提供七种语言版本。每一种都包含完全相同的 240 个页面：风格库、任务页面、知识库、法律页面，以及对比页与榜单页，并配有 `hreflang` 备用链接与 `x-default`。各语言版本通过路径前缀访问，读者进入的是同一篇内容自己的语言版本。
 
 | 语言版本 | 入口 |
 |---|---|

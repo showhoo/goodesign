@@ -11,18 +11,18 @@
 | | |
 |---|---|
 | 製品 | [www.goodesign.io](https://www.goodesign.io) |
-| スタイルライブラリ（34のスタイル） | [/styles](https://www.goodesign.io/styles) |
+| スタイルライブラリ（31のスタイル） | [/styles](https://www.goodesign.io/styles) |
 | 施工例ギャラリー | [/gallery](https://www.goodesign.io/gallery) |
 | 各タスクの機能 | [/features](https://www.goodesign.io/features) |
 | プランと料金 | [/pricing](https://www.goodesign.io/pricing) |
 | 指示の書き方 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| ナレッジハブ（100記事） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| ナレッジハブ（132記事） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | ヘルプセンター | [/help](https://www.goodesign.io/help) |
 | お問い合わせ | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## 何ができるか
 
-**部屋のスタイルを作り替える。** 空の部屋や老朽化した部屋を、別の方向性で見せます。ライブラリには34の命名済みスタイルが揃っています — Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist、そしてそのほか20 — あるいは、自分で書いた指示を伝えることもできます。
+**部屋のスタイルを作り替える。** 空の部屋や老朽化した部屋を、別の方向性で見せます。ライブラリには31の命名済みスタイルが揃っています — Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist、そしてそのほか16 — あるいは、自分で書いた指示を伝えることもできます。
 
 **1つだけ変えて、あとはそのまま。** 差がつくのはタスクページです。何でも書き込める「この部屋を想像して」形式の入力欄ではなく、それぞれの作業に専用のページと専用の操作が用意されています：
 
@@ -63,7 +63,7 @@
 
 ## 対応言語
 
-このサイトは7つのロケールに対応しています。それぞれに同じ183ページ — スタイルライブラリ、タスクページ、ナレッジハブ、法務ページ — が揃い、`hreflang` の代替指定と `x-default` を備えています。各言語はパスのプレフィックスで切り替わるため、読者はそのまま自分の言語版に到達します。
+このサイトは7つのロケールに対応しています。それぞれに同じ240ページ — スタイルライブラリ、タスクページ、ナレッジハブ、法務ページ、比較・ランキングページ — が揃い、`hreflang` の代替指定と `x-default` を備えています。各言語はパスのプレフィックスで切り替わるため、読者はそのまま自分の言語版に到達します。
 
 | ロケール | エントリーポイント |
 |---|---|

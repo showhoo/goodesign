@@ -11,18 +11,18 @@ Qui non c'è codice sorgente. Questa pagina serve a indicare il prodotto, spiega
 | | |
 |---|---|
 | Prodotto | [www.goodesign.io](https://www.goodesign.io) |
-| Libreria degli stili (34 look) | [/styles](https://www.goodesign.io/styles) |
+| Libreria degli stili (31 look) | [/styles](https://www.goodesign.io/styles) |
 | Galleria di esempi realizzati | [/gallery](https://www.goodesign.io/gallery) |
 | Cosa fa ogni task | [/features](https://www.goodesign.io/features) |
 | Piani e prezzi | [/pricing](https://www.goodesign.io/pricing) |
 | Come scrivere la brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Hub di conoscenza (100 articoli) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Hub di conoscenza (132 articoli) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Centro di aiuto | [/help](https://www.goodesign.io/help) |
 | Contatti | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
 ## Cosa fa
 
-**Cambiare stile a una stanza.** Una stanza vuota o datata, mostrata in un'altra direzione. La libreria contiene 34 look con un nome — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist e altri venti — oppure può usare un brief scritto da sé.
+**Cambiare stile a una stanza.** Una stanza vuota o datata, mostrata in un'altra direzione. La libreria contiene 31 look con un nome — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist e altri sedici — oppure può usare un brief scritto da sé.
 
 **Cambiare una cosa, mantenere il resto.** Le pagine dei task sono l'elemento che ci distingue. Invece di un'unica casella aperta e senza vincoli tipo "immagina questa stanza", ogni lavoro ha una pagina propria e controlli propri:
 
@@ -63,7 +63,7 @@ La fatturazione passa da Creem come merchant of record, con PayPal disponibile c
 
 ## Lingue
 
-Il sito serve sette lingue. Ognuna contiene le stesse 183 pagine — la libreria degli stili, le pagine dei task, l'hub di conoscenza e le pagine legali — con alternates `hreflang` e un `x-default`. Ogni lingua si apre con un prefisso di percorso, chi legge raggiunge quindi la propria versione del contenuto.
+Il sito serve sette lingue. Ognuna contiene le stesse 240 pagine — la libreria degli stili, le pagine dei task, l'hub di conoscenza, le pagine legali e le pagine di confronto e classifica — con alternates `hreflang` e un `x-default`. Ogni lingua si apre con un prefisso di percorso, chi legge raggiunge quindi la propria versione del contenuto.
 
 | Locale | Punto di ingresso |
 |---|---|
