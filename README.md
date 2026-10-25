@@ -20,6 +20,12 @@ No source code lives here. This page exists to point at the product, explain wha
 | Help centre | [/help](https://www.goodesign.io/help) |
 | Contact | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| Before | After |
+|---|---|
+| ![Before](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![After](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*One photo of an empty room in, one furnished room out — same walls, same window, same door, no manual retouching.*
+
 ## What it does
 
 **Restyle a room.** An empty or dated room, shown in a different direction. The library holds 31 named looks — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist and sixteen more — or your own written brief.

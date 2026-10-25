@@ -20,6 +20,12 @@ Qui non c'è codice sorgente. Questa pagina serve a indicare il prodotto, spiega
 | Centro di aiuto | [/help](https://www.goodesign.io/help) |
 | Contatti | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| Prima | Dopo |
+|---|---|
+| ![Prima](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![Dopo](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*Entra la foto di una stanza vuota, esce una stanza arredata: stesse pareti, stessa finestra, stessa porta, nessun ritocco manuale.*
+
 ## Cosa fa
 
 **Cambiare stile a una stanza.** Una stanza vuota o datata, mostrata in un'altra direzione. La libreria contiene 31 look con un nome — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist e altri sedici — oppure può usare un brief scritto da sé.

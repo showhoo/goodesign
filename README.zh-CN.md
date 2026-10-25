@@ -20,6 +20,12 @@
 | 帮助中心 | [/help](https://www.goodesign.io/help) |
 | 联系方式 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| 处理前 | 处理后 |
+|---|---|
+| ![处理前](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![处理后](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*一张空房照片进，一间布置好的房间出——墙面、窗户、门都在原位，无需人工修图。*
+
 ## 它能做什么
 
 **给房间换风格。** 把一间空房或已经过时的房间，呈现为另一种方向。风格库收录 31 种命名风格：Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist，另有十六种；您也可以直接用自己的文字描述需求。

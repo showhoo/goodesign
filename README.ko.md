@@ -20,6 +20,12 @@
 | 도움말 센터 | [/help](https://www.goodesign.io/help) |
 | 연락처 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| 전 | 후 |
+|---|---|
+| ![전](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![후](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*빈 방 사진 한 장을 넣으면 가구가 배치된 방이 나옵니다. 벽, 창문, 문은 그대로이고 수작업 보정은 없습니다.*
+
 ## 무엇을 합니다
 
 **방의 스타일을 바꿉니다.** 비어 있거나 오래된 방을 다른 방향으로 보여줍니다. 라이브러리에는 이름이 붙은 31가지 룩 — Japandi, Scandinavian(스칸디나비아), Wabi Sabi(와비사비), Mid Century(미드센추리), Boho(보헤미안), Industrial(인더스트리얼), Art Deco(아르데코), Quiet Luxury, Mediterranean(지중해), Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist(맥시멀리스트) 및 그 외 16가지 — 가 있고, 직접 작성한 브리프도 사용할 수 있습니다.

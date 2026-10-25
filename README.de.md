@@ -20,6 +20,12 @@ Hier liegt kein Quellcode. Diese Seite verweist auf das Produkt, erklärt, was e
 | Hilfecenter | [/help](https://www.goodesign.io/help) |
 | Kontakt | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| Vorher | Nachher |
+|---|---|
+| ![Vorher](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![Nachher](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*Ein Foto eines leeren Raums hinein, ein eingerichteter Raum heraus — gleiche Wände, gleiches Fenster, gleiche Tür, keine manuelle Retusche.*
+
 ## Was es kann
 
 **Einen Raum neu stylen.** Ein leerer oder in die Jahre gekommener Raum, gezeigt in einer anderen Richtung. Die Bibliothek enthält 31 benannte Styles — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist und sechzehn weitere — oder Ihre eigene schriftliche Vorgabe.

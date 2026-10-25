@@ -20,6 +20,12 @@
 | ヘルプセンター | [/help](https://www.goodesign.io/help) |
 | お問い合わせ | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| ビフォー | アフター |
+|---|---|
+| ![ビフォー](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![アフター](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*空の部屋の写真1枚から、家具付きの部屋が返ってきます。壁も窓もドアもそのまま、手作業のレタッチはありません。*
+
 ## 何ができるか
 
 **部屋のスタイルを作り替える。** 空の部屋や老朽化した部屋を、別の方向性で見せます。ライブラリには31の命名済みスタイルが揃っています — Japandi、Scandinavian、Wabi Sabi、Mid Century、Boho、Industrial、Art Deco、Quiet Luxury、Mediterranean、Korean、Japanese Modern、Modern Chinese、Cream、Natural Wood、Maximalist、そしてそのほか16 — あるいは、自分で書いた指示を伝えることもできます。

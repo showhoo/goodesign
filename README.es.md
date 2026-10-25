@@ -20,6 +20,12 @@ Aquí no hay código fuente. Esta página sirve para señalar el producto, expli
 | Centro de ayuda | [/help](https://www.goodesign.io/help) |
 | Contacto | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
+| Antes | Después |
+|---|---|
+| ![Antes](https://www.goodesign.io/gallery/before/r2-c3.webp) | ![Después](https://www.goodesign.io/gallery/after/r2-c3.webp) |
+
+*Entra la foto de una habitación vacía, sale una habitación amueblada: mismas paredes, misma ventana, misma puerta, sin retoque manual.*
+
 ## Qué hace
 
 **Cambiar el estilo de una habitación.** Una habitación vacía o pasada de moda, mostrada en otra dirección. La biblioteca reúne 31 estilos con nombre — Japandi, Scandinavian, Wabi Sabi, Mid Century, Boho, Industrial, Art Deco, Quiet Luxury, Mediterranean, Korean, Japanese Modern, Modern Chinese, Cream, Natural Wood, Maximalist y dieciséis más — o un brief escrito por usted.
