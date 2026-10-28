@@ -16,7 +16,7 @@ Qui non c'è codice sorgente. Questa pagina serve a indicare il prodotto, spiega
 | Cosa fa ogni task | [/features](https://www.goodesign.io/features) |
 | Piani e prezzi | [/pricing](https://www.goodesign.io/pricing) |
 | Come scrivere la brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Hub di conoscenza (132 articoli) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Hub di conoscenza (134 articoli) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Centro di aiuto | [/help](https://www.goodesign.io/help) |
 | Contatti | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@ La fatturazione passa da Creem come merchant of record, con PayPal disponibile c
 
 ## Lingue
 
-Il sito serve sette lingue. Ognuna contiene le stesse 240 pagine — la libreria degli stili, le pagine dei task, l'hub di conoscenza, le pagine legali e le pagine di confronto e classifica — con alternates `hreflang` e un `x-default`. Ogni lingua si apre con un prefisso di percorso, chi legge raggiunge quindi la propria versione del contenuto.
+Il sito serve otto lingue. Ognuna contiene le stesse 243 pagine — la libreria degli stili, le pagine dei task, l'hub di conoscenza, le pagine legali e le pagine di confronto e classifica — con alternates `hreflang` e un `x-default`. Ogni lingua si apre con un prefisso di percorso, chi legge raggiunge quindi la propria versione del contenuto.
 
 | Locale | Punto di ingresso |
 |---|---|
@@ -79,6 +79,7 @@ Il sito serve sette lingue. Ognuna contiene le stesse 240 pagine — la libreria
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية (da destra a sinistra) | [/ar](https://www.goodesign.io/ar) |
 
 Gli slug restano in inglese in tutti i locale, quindi `/ja/virtual-staging` e `/de/virtual-staging` sono la stessa pagina in due lingue.

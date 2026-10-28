@@ -16,7 +16,7 @@
 | 各任务分别做什么 | [/features](https://www.goodesign.io/features) |
 | 套餐与价格 | [/pricing](https://www.goodesign.io/pricing) |
 | 如何写清需求 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| 知识库（132 篇文章） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| 知识库（134 篇文章） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | 帮助中心 | [/help](https://www.goodesign.io/help) |
 | 联系方式 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@
 
 ## 语言
 
-站点提供七种语言版本。每一种都包含完全相同的 240 个页面：风格库、任务页面、知识库、法律页面，以及对比页与榜单页，并配有 `hreflang` 备用链接与 `x-default`。各语言版本通过路径前缀访问，读者进入的是同一篇内容自己的语言版本。
+站点提供八种语言版本。每一种都包含完全相同的 243 个页面：风格库、任务页面、知识库、法律页面，以及对比页与榜单页，并配有 `hreflang` 备用链接与 `x-default`。各语言版本通过路径前缀访问，读者进入的是同一篇内容自己的语言版本。
 
 | 语言版本 | 入口 |
 |---|---|
@@ -79,6 +79,7 @@
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية（从右向左书写） | [/ar](https://www.goodesign.io/ar) |
 
 所有语言版本的 slug 都保持英文，因此 `/ja/virtual-staging` 和 `/de/virtual-staging` 是同一个页面的两种语言。

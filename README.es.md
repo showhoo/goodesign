@@ -16,7 +16,7 @@ Aquí no hay código fuente. Esta página sirve para señalar el producto, expli
 | Qué hace cada tarea | [/features](https://www.goodesign.io/features) |
 | Planes y precios | [/pricing](https://www.goodesign.io/pricing) |
 | Cómo redactar el brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Centro de conocimiento (132 artículos) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Centro de conocimiento (134 artículos) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Centro de ayuda | [/help](https://www.goodesign.io/help) |
 | Contacto | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@ La facturación se tramita a través de Creem como merchant of record, con PayPa
 
 ## Idiomas
 
-El sitio sirve siete idiomas. Todos contienen las mismas 240 páginas — la biblioteca de estilos, las páginas de tareas, el centro de conocimiento, las páginas legales y las páginas de comparación y ranking — con alternativas `hreflang` y un `x-default`. Cada idioma se abre mediante un prefijo de ruta, de modo que el lector llega a su propia versión del contenido.
+El sitio sirve ocho idiomas. Todos contienen las mismas 243 páginas — la biblioteca de estilos, las páginas de tareas, el centro de conocimiento, las páginas legales y las páginas de comparación y ranking — con alternativas `hreflang` y un `x-default`. Cada idioma se abre mediante un prefijo de ruta, de modo que el lector llega a su propia versión del contenido.
 
 | Locale | Punto de entrada |
 |---|---|
@@ -79,6 +79,7 @@ El sitio sirve siete idiomas. Todos contienen las mismas 240 páginas — la bib
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية (de derecha a izquierda) | [/ar](https://www.goodesign.io/ar) |
 
 Los slugs se mantienen en inglés en todos los locale, así que `/ja/virtual-staging` y `/de/virtual-staging` son la misma página en dos idiomas.

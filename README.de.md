@@ -16,7 +16,7 @@ Hier liegt kein Quellcode. Diese Seite verweist auf das Produkt, erklärt, was e
 | Was die einzelnen Aufgaben leisten | [/features](https://www.goodesign.io/features) |
 | Tarife und Preise | [/pricing](https://www.goodesign.io/pricing) |
 | So schreiben Sie die Vorgabe | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Wissens-Hub (132 Artikel) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Wissens-Hub (134 Artikel) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Hilfecenter | [/help](https://www.goodesign.io/help) |
 | Kontakt | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@ Die Abrechnung läuft über Creem als Merchant of Record, PayPal steht als direk
 
 ## Sprachen
 
-Die Website bedient sieben Sprachversionen. Jede enthält dieselben 240 Seiten — die Stilbibliothek, die Aufgabenseiten, den Wissens-Hub, die Rechtstexte sowie die Vergleichs- und Ranglistenseiten — mit `hreflang`-Alternativen und einem `x-default`. Die Sprachversionen werden über ein Pfadpräfix aufgerufen, Leser landen also bei der eigenen Sprachfassung einer Seite.
+Die Website bedient acht Sprachversionen. Jede enthält dieselben 243 Seiten — die Stilbibliothek, die Aufgabenseiten, den Wissens-Hub, die Rechtstexte sowie die Vergleichs- und Ranglistenseiten — mit `hreflang`-Alternativen und einem `x-default`. Die Sprachversionen werden über ein Pfadpräfix aufgerufen, Leser landen also bei der eigenen Sprachfassung einer Seite.
 
 | Sprachversion | Einstiegspunkt |
 |---|---|
@@ -79,6 +79,7 @@ Die Website bedient sieben Sprachversionen. Jede enthält dieselben 240 Seiten �
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية (rechts nach links) | [/ar](https://www.goodesign.io/ar) |
 
 Die Slugs bleiben in allen Sprachversionen englisch, daher sind `/ja/virtual-staging` und `/de/virtual-staging` dieselbe Seite in zwei Sprachen.

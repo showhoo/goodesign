@@ -16,7 +16,7 @@
 | 各タスクの機能 | [/features](https://www.goodesign.io/features) |
 | プランと料金 | [/pricing](https://www.goodesign.io/pricing) |
 | 指示の書き方 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| ナレッジハブ（132記事） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| ナレッジハブ（134記事） | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | ヘルプセンター | [/help](https://www.goodesign.io/help) |
 | お問い合わせ | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@
 
 ## 対応言語
 
-このサイトは7つのロケールに対応しています。それぞれに同じ240ページ — スタイルライブラリ、タスクページ、ナレッジハブ、法務ページ、比較・ランキングページ — が揃い、`hreflang` の代替指定と `x-default` を備えています。各言語はパスのプレフィックスで切り替わるため、読者はそのまま自分の言語版に到達します。
+このサイトは8つのロケールに対応しています。それぞれに同じ243ページ — スタイルライブラリ、タスクページ、ナレッジハブ、法務ページ、比較・ランキングページ — が揃い、`hreflang` の代替指定と `x-default` を備えています。各言語はパスのプレフィックスで切り替わるため、読者はそのまま自分の言語版に到達します。
 
 | ロケール | エントリーポイント |
 |---|---|
@@ -79,6 +79,7 @@
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية（右から左） | [/ar](https://www.goodesign.io/ar) |
 
 スラグはすべてのロケールで英語のままなので、`/ja/virtual-staging` と `/de/virtual-staging` は2つの言語で同じページを指します。

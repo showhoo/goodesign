@@ -16,7 +16,7 @@ No source code lives here. This page exists to point at the product, explain wha
 | What each task does | [/features](https://www.goodesign.io/features) |
 | Plans and prices | [/pricing](https://www.goodesign.io/pricing) |
 | How to write the brief | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| Knowledge hub (132 articles) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| Knowledge hub (134 articles) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | Help centre | [/help](https://www.goodesign.io/help) |
 | Contact | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@ Billing runs through Creem as merchant of record, with PayPal available as a dir
 
 ## Languages
 
-The site serves seven locales. Every one of them carries the same 240 pages — the style library, the task pages, the knowledge hub, the legal pages, and the comparison and ranking pages — with `hreflang` alternates and an `x-default`. The localized pages are reached through a path prefix, so a reader lands on their own language version of a page rather than on a translated stub.
+The site serves eight locales. Every one of them carries the same 243 pages — the style library, the task pages, the knowledge hub, the legal pages, and the comparison and ranking pages — with `hreflang` alternates and an `x-default`. The localized pages are reached through a path prefix, so a reader lands on their own language version of a page rather than on a translated stub.
 
 | Locale | Entry point |
 |---|---|
@@ -79,6 +79,7 @@ The site serves seven locales. Every one of them carries the same 240 pages — 
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية (right-to-left) | [/ar](https://www.goodesign.io/ar) |
 
 Slugs stay in English across all locales, so `/ja/virtual-staging` and `/de/virtual-staging` are the same page in two languages.

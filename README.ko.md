@@ -16,7 +16,7 @@
 | 각 작업이 하는 일 | [/features](https://www.goodesign.io/features) |
 | 요금제와 가격 | [/pricing](https://www.goodesign.io/pricing) |
 | 브리프 작성법 | [/how-to-prompt](https://www.goodesign.io/how-to-prompt) |
-| 지식 허브 (기사 132개) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
+| 지식 허브 (기사 134개) | [/knowledge-hub](https://www.goodesign.io/knowledge-hub) |
 | 도움말 센터 | [/help](https://www.goodesign.io/help) |
 | 연락처 | [hello@goodesign.io](mailto:hello@goodesign.io) |
 
@@ -69,7 +69,7 @@
 
 ## 언어
 
-이 사이트는 7개 로케일을 서비스합니다. 각 로케일마다 동일한 240개 페이지 — 스타일 라이브러리, 작업 페이지, 지식 허브, 법적 고지 페이지, 비교·순위 페이지 — 가 그대로 들어 있고, `hreflang` 교차 링크와 `x-default`를 갖추고 있습니다. 언어는 경로 접두사로 전환하므로, 읽는 사람은 자기 언어 버전으로 바로 들어갑니다.
+이 사이트는 8개 로케일을 서비스합니다. 각 로케일마다 동일한 243개 페이지 — 스타일 라이브러리, 작업 페이지, 지식 허브, 법적 고지 페이지, 비교·순위 페이지 — 가 그대로 들어 있고, `hreflang` 교차 링크와 `x-default`를 갖추고 있습니다. 언어는 경로 접두사로 전환하므로, 읽는 사람은 자기 언어 버전으로 바로 들어갑니다.
 
 | 로케일 | 진입 주소 |
 |---|---|
@@ -79,6 +79,7 @@
 | Deutsch | [/de](https://www.goodesign.io/de) |
 | Français | [/fr](https://www.goodesign.io/fr) |
 | Español | [/es](https://www.goodesign.io/es) |
+| 简体中文 | [/zh](https://www.goodesign.io/zh) |
 | العربية (오른쪽에서 왼쪽) | [/ar](https://www.goodesign.io/ar) |
 
 슬러그는 모든 로케일에서 영어로 유지되므로 `/ja/virtual-staging`과 `/de/virtual-staging`은 두 언어로 된 같은 페이지입니다.
